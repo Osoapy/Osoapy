@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center"> ☕ Olá viajante, acomode-se... ☕ </h1>
 
-<!--
-**Osoapy/Osoapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="400px" width="80%" src="https://github.com/Osoapy/Osoapy/assets/143756812/ae5a62f6-24f1-4b18-86c0-63282c56fd3c"/>
+</div>
 
-Here are some ideas to get you started:
+### 🪂 Caiu de paraquedas aqui? Vou falar um pouco de mim 🪂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Meu nome é João Gabriel`#0061`, um projeto escrito em carne e osso sempre em desenvolvimento, amo aprender o back-end e o front-end;
+
+* Sou um estudante do segundo período de ADS no IFPB, sempre tive a vontade de cursar e aqui estou.
+
+* Posso:
+  
+  - [X] Codar em C e Javascript
+  
+  - [X] Fazer um site com permanência de dados
+
+  - [X] Tocar a grama (sem ser a artificial)
+
+  - [X] Cozinhar um bolo
+
+  - [ ] Falar mal do [Gustavo Guanabara](https://www.youtube.com/@CursoemVideo)
+
+### - Estou atualmente na fase de trainee na empresa Loopis JR...
+
+➤ E lá vamos nós... Vou cuidar em te manter atualizado, mas até agora só participei de uma apresentação da empresa.
+
+### - ⚡ Ficando cada dia mais ~ins~pirado para trazer minhas ideias pra realidade ⚡
+
+➤ A criatividade está bem longe de se esgotar.
+
+### - 🔨 Todo dia no processo de melhorar minhas soft skills 🔨
+
+➤ Aceitando Commits sobre mim de qualquer branch, analizando, desenvolvendo, aperfeiçoando e commitando novamente, mas dessa vez na branch main...
+
+### - 📫 Como falar comigo 📫
+
+➤ Use o seguinte email: `joaogabriel61.cz@gmail.com`
