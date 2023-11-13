@@ -22,7 +22,7 @@
 
   - [ ] Falar mal do [Gustavo Guanabara](https://www.youtube.com/@CursoemVideo)
 
-### - Estou atualmente na fase de trainee na empresa Loopis JR...
+### - 📅 Estou atualmente na fase de trainee na empresa Loopis JR 📅
 
 ➤ E lá vamos nós... Vou cuidar em te manter atualizado, mas até agora só participei de uma apresentação da empresa.
 
