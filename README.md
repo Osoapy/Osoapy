@@ -22,9 +22,9 @@
 
   - [ ] Falar mal do [Gustavo Guanabara](https://www.youtube.com/@CursoemVideo)
 
-### - 📅 Estou atualmente na fase de trainee na empresa Loopis JR 📅
+### - 📅 Consultor do setor comercial na Loopis JR 📅
 
-➤ E lá vamos nós... Vou cuidar em te manter atualizado, mas até agora só participei de uma apresentação da empresa.
+➤ E lá vamos nós... Cuidar em fechar esse contrato.
 
 ### - ⚡ Ficando cada dia mais ~ins~pirado para trazer minhas ideias pra realidade ⚡
 
@@ -36,4 +36,4 @@
 
 ### - 📫 Como falar comigo 📫
 
-➤ Use o seguinte email: `joaogabriel61.cz@gmail.com`
+➤ Use o seguinte email: `oosoapy@gmail.com`
