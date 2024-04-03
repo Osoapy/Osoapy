@@ -21,7 +21,7 @@ Palette (darkest to brightest):
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=9a00fa&line=8a00fa&point=7a00fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=8a00fa&point=7a00fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 ![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
