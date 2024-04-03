@@ -23,8 +23,21 @@ Palette (darkest to brightest):
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=8a00fa&point=7a00fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
-![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
+<!--![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;-->
+
+<div align="center">
+  <div>
+    <a display="in-line" href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-silva-0096312b9" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </div>
+  <div>
+    <a display="in-line" href="https://instagram.com/bebel._.joao?igsh=Ymc2MjJtenR5aTh2" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  </div>
+</div>
  
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
