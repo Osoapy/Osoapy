@@ -11,7 +11,7 @@ Palette (darkest to brightest):
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ae00fa&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;18+years+old;I'm+from+Cajazeiras,+PB;I+study+analysis+and+systems+development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ae00fa&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+18+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
