@@ -16,7 +16,7 @@ Palette (darkest to brightest):
 
 <div align="center">  
   <img width="44%" height="195px" src="https://steamuserimages-a.akamaihd.net/ugc/943959879380696091/1962425444581693D4A12617A1C4B781E1354581/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="My friend Totoro" /> 
-  <img id="HereFutureBebel" width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osoapy&layout=donut&hide_border=true&title_color=9a00fa&text_color=ffffff&bg_color=0d1117&hide=html" />
+  <img id="HereFutureBebel" width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osoapy&layout=donut&hide_border=true&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <br>
