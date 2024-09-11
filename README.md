@@ -9,12 +9,12 @@ Palette (darkest to brightest):
 - #e7008b
 -->
 
-<img width=1000px src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=header"/>
+<img width=1000px height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ae00fa&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+18+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ae00fa&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+18+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 1000px">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%; max-width: 1000px; margin: auto;">
   <img width="48%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/943959879380696091/1962425444581693D4A12617A1C4B781E1354581/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="My friend Totoro" />
   <img width="48%" height="auto" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&exclude_repo=github-readme-stats,Ensejo-De-Liberdade,Projeto-Git)&hide=html&layout=donut&hide_border=true&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
@@ -22,7 +22,7 @@ Palette (darkest to brightest):
 <br>
 
 <div style="width: 1000px">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=8a00fa&point=7a00fa&area=true&hide_border=true">
+  <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=8a00fa&point=7a00fa&area=true&hide_border=true">
 </div>
 
 <!--![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
