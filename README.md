@@ -14,9 +14,9 @@ Palette (darkest to brightest):
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ae00fa&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+18+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%; max-width: 1000px; margin: auto;">
-  <img width="48%" height="auto" src="https://steamuserimages-a.akamaihd.net/ugc/943959879380696091/1962425444581693D4A12617A1C4B781E1354581/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="My friend Totoro" />
-  <img width="48%" height="auto" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&exclude_repo=github-readme-stats,Ensejo-De-Liberdade,Projeto-Git)&hide=html&layout=donut&hide_border=true&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+<div>
+  <img width="49.7%" height="80%" src="https://steamuserimages-a.akamaihd.net/ugc/943959879380696091/1962425444581693D4A12617A1C4B781E1354581/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="My friend Totoro" />
+  <img width="49.7%" height="20%" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&exclude_repo=github-readme-stats,Ensejo-De-Liberdade,Projeto-Git)&hide=html&layout=donut&hide_border=true&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
@@ -30,12 +30,12 @@ Palette (darkest to brightest):
 
 <div align="center">
   <div>
-    <a display="in-line" href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-silva-0096312b9" target="_blank">
+    <a target="_blank" display="in-line" href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-silva-0096312b9" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
   <div>
-    <a display="in-line" href="https://instagram.com/bebel._.joao?igsh=Ymc2MjJtenR5aTh2" target="_blank">
+    <a target="_blank" display="in-line" href="https://instagram.com/bebel._.joao?igsh=Ymc2MjJtenR5aTh2" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </div>
