@@ -9,6 +9,11 @@ Palette (darkest to brightest):
 - #e7008b
 -->
 
+<!--
+References: 
+- https://github.com/inttter/md-badges
+-->
+
 <img width=1000px height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ae00fa&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+18+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
@@ -42,16 +47,20 @@ Palette (darkest to brightest):
 </div>
  
 ### Main skills:
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
  
-### Other Knowledge:
+### Other Knowledges:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)&nbsp;
