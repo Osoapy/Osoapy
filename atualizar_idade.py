@@ -8,7 +8,7 @@ def calcular_idade(data_nascimento):
     return idade
 
 # Data de nascimento do usuário
-data_nascimento = datetime(2000, 12, 14)  # Substitua pela sua data de nascimento
+data_nascimento = datetime(2005, 10, 23)
 
 # Calculando a idade atual
 idade_atual = calcular_idade(data_nascimento)
