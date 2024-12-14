@@ -2,31 +2,36 @@ name: Atualizar Idade
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Rodar uma vez por dia, mas pode ser ajustado
+    - cron: '0 0 * * *'  # Executa todos os dias à meia-noite
+  push:
+    branches:
+      - main  # Ou o nome da sua branch principal
+  pull_request:
+    branches:
+      - main  # Ou o nome da sua branch principal
+  workflow_dispatch:  # Isso habilita o botão "Run workflow" manualmente
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout do código
-      uses: actions/checkout@v2
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
-    - name: Calcular idade e atualizar README
-      run: |
-        # Data de nascimento no formato AAAA-MM-DD
-        nascimento="2005-10-23"
-        
-        # Calcular idade
-        idade=$(date -d "$nascimento" +%Y)
-        idade_atual=$(date +%Y)
-        idade_final=$((idade_atual - idade))
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-        # Substituir a tag no README.md
-        sed -i "s|<!-- AGE -->|$idade_final|g" README.md
+      - name: Atualizar Idade no README
+        run: |
+          python atualizar_idade.py  # Aqui você chama o script Python para atualizar a idade
 
-    - name: Commit e push de alterações no README
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: 'Seu Nome'
-        author_email: 'seuemail@example.com'
-        message: 'Atualizando a idade no README'
+      - name: Commit e push de alterações no README
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'Seu Nome'
+          author_email: 'seuemail@example.com'
+          message: 'Atualizando a idade no README'
+          add: 'README.md'
