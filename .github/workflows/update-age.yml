@@ -30,4 +30,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Atualiza idade no README"
-          git push https://github.com/Osoapy/Osoapy.git HEAD:main
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Osoapy/Osoapy.git HEAD:main
