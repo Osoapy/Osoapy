@@ -1,37 +1,38 @@
-name: Atualizar Idade
+name: Atualizar Idade no README
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Executa todos os dias à meia-noite
   push:
     branches:
-      - main  # Ou o nome da sua branch principal
-  pull_request:
-    branches:
-      - main  # Ou o nome da sua branch principal
-  workflow_dispatch:  # Isso habilita o botão "Run workflow" manualmente
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Configurar Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
-      - name: Atualizar Idade no README
+      - name: Instalar dependências
         run: |
-          python atualizar_idade.py  # Aqui você chama o script Python para atualizar a idade
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Commit e push de alterações no README
-        uses: EndBug/add-and-commit@v7
-        with:
-          author_name: 'Seu Nome'
-          author_email: 'seuemail@example.com'
-          message: 'Atualizando a idade no README'
-          add: 'README.md'
+      - name: Rodar script de atualização de idade
+        run: |
+          python atualizar_idade.py
+
+      - name: Commit e Push com GitHub Token
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Atualiza idade no README"
+          git push https://github.com/Osoapy/Osoapy.git HEAD:main
