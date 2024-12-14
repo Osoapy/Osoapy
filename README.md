@@ -19,18 +19,24 @@ Gifs
 Gumball and Darwind on PC: https://i.imgur.com/dgtAFf4.gif
 Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35df/tumblr_p03o8m6j4x1qkz08qo1_540.gif
 -->
+
+<!-- HEADER GIF -->
 <img width=1000px height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=header"/>
-  
+
+<!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ae00fa&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+19+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
 
-
+<!-- GIF / TOP LANGS -->
 <div align="center">
+  <!-- GIF -->
   <img width="49.7%" height="100%" src="https://i.imgur.com/dgtAFf4.gif" alt="Me and my PC" />
+  <!-- TOP LANGS -->
   <img width="49.7%" height="100%" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&hide=html&layout=donut&hide_border=true&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
 
+<!-- GITHUB STATS -->
 <div style="width: 1000px">
   <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=8a00fa&point=7a00fa&area=true&hide_border=true">
 </div>
@@ -38,13 +44,16 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 <!--![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 ![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;-->
 
+<!-- SOCIAL MIDIA -->
 <div align="center">
   <div>
+    <!-- LINKEDIN -->
     <a target="_blank" display="in-line" href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-silva-0096312b9" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
   <div>
+    <!-- INSTAGRAM -->
     <a target="_blank" display="in-line" href="https://instagram.com/bebel._.joao?igsh=Ymc2MjJtenR5aTh2" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
