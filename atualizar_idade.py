@@ -1,25 +1,29 @@
-import datetime
 import re
+from datetime import datetime
 
-# Defina sua data de nascimento
-data_nascimento = datetime.date(2005, 10, 23)  # Exemplo: 14 de maio de 1995
+# Função para calcular a idade
+def calcular_idade(data_nascimento):
+    hoje = datetime.today()
+    idade = hoje.year - data_nascimento.year - ((hoje.month, hoje.day) < (data_nascimento.month, data_nascimento.day))
+    return idade
 
-# Calcule a idade atual
-hoje = datetime.date.today()
-idade = hoje.year - data_nascimento.year - ((hoje.month, hoje.day) < (data_nascimento.month, data_nascimento.day))
+# Data de nascimento do usuário
+data_nascimento = datetime(2000, 12, 14)  # Substitua pela sua data de nascimento
 
-# Caminho para o arquivo README.md
-readme_path = 'README.md'
+# Calculando a idade atual
+idade_atual = calcular_idade(data_nascimento)
 
-# Abra o arquivo README.md
-with open(readme_path, 'r') as file:
-    content = file.read()
+# Função para substituir a idade no README
+def atualizar_arquivo(arquivo):
+    with open(arquivo, 'r', encoding='utf-8') as f:
+        conteudo = f.read()
+    
+    # Expressão regular para encontrar o padrão "I'm+<qualquer_numero>+years+old"
+    novo_conteudo = re.sub(r"I'm\+(\d+)\+years\+old", f"I'm+{idade_atual}+years+old", conteudo)
+    
+    # Salvando o conteúdo atualizado de volta no arquivo
+    with open(arquivo, 'w', encoding='utf-8') as f:
+        f.write(novo_conteudo)
 
-# Substitua o marcador <!-- AGE --> pela idade calculada
-novo_conteudo = re.sub(r'<!-- AGE -->', f'Idade: {idade}', content)
-
-# Salve o conteúdo atualizado no README.md
-with open(readme_path, 'w') as file:
-    file.write(novo_conteudo)
-
-print(f'Idade atualizada para {idade} no README.md')
+# Chame a função para atualizar o README
+atualizar_arquivo('README.md')
