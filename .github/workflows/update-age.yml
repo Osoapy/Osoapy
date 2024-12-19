@@ -1,9 +1,8 @@
 name: Atualizar Idade no README
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 0 * * *' # Executa todos os dias à meia-noite UTC
 
 jobs:
   update-readme:
