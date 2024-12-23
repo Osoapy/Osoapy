@@ -69,6 +69,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](#)
 [![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase)](#)
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 [![Postgres](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vsc)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm)](#)
@@ -88,7 +89,6 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 ![Cpp](https://img.shields.io/badge/Cpp-01590F?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-00000F?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 ### Other knowledges:
 
@@ -97,5 +97,6 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff)](#)
+[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=footer"/>
