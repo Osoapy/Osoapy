@@ -66,27 +66,36 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
 ### Tools:
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](#)
+[![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vsc)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm)](#)
 [![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva)](#)
+[![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-0D1117?style=for-the-badge&logo=obsidian&labelColor=0D1117)](#)
  
-### Other Knowledges:
+### Programming (and markup) Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)&nbsp;
+[![Sass](https://img.shields.io/badge/Sass-FF599C?style=for-the-badge&logo=sass&logoColor=pink&labelColor=0D1117)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0059FF?style=for-the-badge&logo=typescript&logoColor=lightblue&labelColor=0D1117)](#)
+[![XML](https://img.shields.io/badge/XML-292929?style=for-the-badge&logo=xml&logoColor=lightblue&labelColor=0D1117)](#)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp;
 ![Cpp](https://img.shields.io/badge/Cpp-01590F?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-00000F?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-00000F?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+### Other knowledges:
+
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff)](#)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=footer"/>
