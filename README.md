@@ -27,11 +27,11 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ae00fa&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+19+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
 
 <!-- GIF / TOP LANGS -->
-<div align="center">
+<div align="center" align-content="center" align-items="center">
   <!-- GIF -->
-  <img width="49.7%" height="100%" src="https://i.imgur.com/dgtAFf4.gif" alt="Me and my PC" />
+  <img width="49.7%" height="300px" src="https://i.imgur.com/dgtAFf4.gif" alt="Me and my PC" />
   <!-- TOP LANGS -->
-  <img width="49.7%" height="100%" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&hide=html&size_weight=0.5&count_weight=0.5&layout=donut&hide_border=true&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img width="49.7%" height="300px" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
