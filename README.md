@@ -47,12 +47,6 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 <!-- SOCIAL MIDIA -->
 <div align="center">
   <div>
-    <!-- LINKEDIN -->
-    <a target="_blank" display="in-line" href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-silva-0096312b9" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </div>
-  <div>
     <!-- INSTAGRAM -->
     <a target="_blank" display="in-line" href="https://instagram.com/bebel._.joao?igsh=Ymc2MjJtenR5aTh2" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -87,11 +81,13 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)](#)
 [![Cpp](https://img.shields.io/badge/Cpp-01590F?style=for-the-badge&logo=cplusplus&labelColor=0D1117)](#)
+[![Markdown](https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=markdown&logoColor=fffdf4&labelColor=0D1117)](#)
 [![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117)](#)
 
 ### Other knowledges:
 
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
