@@ -12,6 +12,7 @@ Palette (darkest to brightest):
 <!--
 References: 
 - https://github.com/inttter/md-badges
+- https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=9a00fa&text_color=ffffff&bg_color=0d1117
 -->
 
 <!--
