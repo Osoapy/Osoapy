@@ -68,7 +68,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 [![Postgres](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vsc)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+[![Trello](https://img.shields.io/badge/Trello-0D1117?logo=trello&style=for-the-badge)](#)
 [![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva)](#)
 [![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-0D1117?style=for-the-badge&logo=obsidian&labelColor=0D1117)](#)
