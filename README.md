@@ -56,7 +56,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 </div>
  
 ### Main skills:
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)](#)
+[![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](#)
  
