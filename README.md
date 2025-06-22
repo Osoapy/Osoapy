@@ -58,7 +58,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 ### Main skills:
 [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)](#)
  
 ### Tools:
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](#)
@@ -75,7 +75,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
  
 ### Programming (& Markup) Languages I Know:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)](#)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-0059FF?style=for-the-badge&logo=typescript&logoColor=lightblue&labelColor=0D1117)](#)
 [![XML](https://img.shields.io/badge/XML-292929?style=for-the-badge&logo=xml&logoColor=lightblue&labelColor=0D1117)](#)
