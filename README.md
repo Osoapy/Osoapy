@@ -57,34 +57,35 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
  
 ### Main skills:
 [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
  
 ### Tools:
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](#)
-[![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vsc&logoColor=blue)](#)
+[![Virtual Box](https://img.shields.io/badge/Virtual%20Box-0D1117?style=for-the-badge&logo=virtualbox)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-0D1117?style=for-the-badge&logo=Obsidian&logoColor=purple)](#)
 [![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vsc)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm)](#)
-[![Trello](https://img.shields.io/badge/Trello-0D1117?logo=trello&style=for-the-badge)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=cyan)](#)
+[![Trello](https://img.shields.io/badge/Trello-0D1117?logo=trello&style=for-the-badge&logoColor=cyan)](#)
 [![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva)](#)
-[![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit&labelColor=0D1117)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-0D1117?style=for-the-badge&logo=obsidian&labelColor=0D1117)](#)
+[![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=orange)](#)
+[![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit)](#)
  
 ### Programming (& Markup) Languages I Know:
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)](#)
+[![Markdown](https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=markdown&logoColor=fffdf4&labelColor=0D1117)](#)
+[![XML](https://img.shields.io/badge/XML-292929?style=for-the-badge&logo=xml&logoColor=lightblue&labelColor=0D1117)](#)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-0059FF?style=for-the-badge&logo=typescript&logoColor=lightblue&labelColor=0D1117)](#)
-[![XML](https://img.shields.io/badge/XML-292929?style=for-the-badge&logo=xml&logoColor=lightblue&labelColor=0D1117)](#)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)](#)
-[![Cpp](https://img.shields.io/badge/Cpp-01590F?style=for-the-badge&logo=cplusplus&labelColor=0D1117)](#)
-[![Markdown](https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=markdown&logoColor=fffdf4&labelColor=0D1117)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)](#)
 [![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0D1117)](#)
+[![Cpp](https://img.shields.io/badge/Cpp-01590F?style=for-the-badge&logo=cplusplus&labelColor=0D1117)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
 
 ### Frameworks:
 
