@@ -12,7 +12,7 @@ Palette (darkest to brightest):
 <!--
 - References: 
 https://github.com/inttter/md-badges
-https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=9a00fa&text_color=ffffff&bg_color=0d1117
+https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=9a00fa&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only
 -->
 
 <!--
@@ -30,7 +30,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 <!-- GIF / TOP LANGS -->
 <div align="center" align-content="center" align-items="center">
   <!-- TOP LANGS -->
-  <img width="49.7%" height="270px" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=9a00fa&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img width="49.7%" height="270px" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=9a00fa&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only" alt="Top Languages" />
   <!-- GIF -->
   <img width="49.7%" height="270px" src="https://i.imgur.com/dgtAFf4.gif" alt="Me and my PC" />
 </div>
