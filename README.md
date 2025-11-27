@@ -1,12 +1,12 @@
 <!--
-Palette (darkest to brightest):
-- #161b4b
-- #3b2f82
-- #573579
-- #ae00fa
-- #9a00fa
-- #ef00d7
-- #e7008b
+Palette (darkest to brightest, based on the SAMURAI image):
+#020204   (almost absolute black, background)
+#300007   (very dark burnt wine)
+#5A000B   (deep blood red)
+#A80016   (hellish “vivid” red)
+#FF0034   (demonic neon red)
+#FF7A9A   (burnt light pink, highlights)
+#E8E8E8   (mechanical white details)
 -->
 
 <!--
@@ -22,24 +22,24 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 -->
 
 <!-- HEADER GIF -->
-<img width=1000px height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=header"/>
+<img width=1000px height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=A80016&height=120&section=header"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=ae00fa&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+20+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=FF0034&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;Better+known+as+Bebel;I'm+20+years+old;I'm+from+Cajazeiras,+PB;I+study+Analysis+And+Systems+Development+at+IFPB;Feel+at+home!+:%29)](https://git.io/typing-svg)
 
 <!-- GIF / TOP LANGS -->
 <div align="center" align-content="center" align-items="center">
   <!-- TOP LANGS -->
-  <img width="49.7%" height="270px" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=9a00fa&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only" alt="Top Languages" />
+  <img width="49.7%" height="270px" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=14&title_color=FF0034&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only" alt="Top Languages" />
   <!-- GIF -->
-  <img width="49.7%" height="270px" src="https://i.imgur.com/dgtAFf4.gif" alt="Me and my PC" />
+  <img width="49.7%" height="270px" src="https://windowscustomization.com/wp-content/uploads/2019/09/Cyberpunk-2077.gif" alt="Me and my PC" />
 </div>
 
 <br>
 
 <!-- GITHUB STATS -->
 <div style="width: 1000px">
-  <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=8a00fa&point=7a00fa&area=true&hide_border=true">
+  <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=FF0034&point=A80016&area=true&hide_border=true">
 </div>
 
 <!--![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
@@ -96,4 +96,4 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff)](#)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=573579&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A80016&height=120&section=footer"/>
