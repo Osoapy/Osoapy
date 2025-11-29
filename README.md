@@ -12,7 +12,7 @@ Palette (darkest to brightest, based on the SAMURAI image):
 <!--
 - References: 
 https://github.com/inttter/md-badges
-https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=16&title_color=9a00fa&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only
+https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=16&title_color=FF0034&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only
 -->
 
 <!--
@@ -30,7 +30,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 <!-- GIF / TOP LANGS -->
 <div align="center" align-content="center" align-items="center">
   <!-- TOP LANGS -->
-  <img width="49.7%" height="270px" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=16&title_color=9a00fa&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only" />
+  <img width="49.7%" height="270px" src="https://github-readme-stats-six-jet-80.vercel.app/api/top-langs/?username=Osoapy&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=16&title_color=FF0034&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only" />
   <!-- GIF -->
   <img width="49.7%" height="270px" src="https://windowscustomization.com/wp-content/uploads/2019/09/Cyberpunk-2077.gif" alt="SAMURAI" />
 </div>
