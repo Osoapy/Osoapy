@@ -52,14 +52,17 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](#)
  
 ### Tools:
+[![Wordpress](https://img.shields.io/badge/Wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=383d42)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vsc&logoColor=blue)](#)
-[![Virtual Box](https://img.shields.io/badge/Virtual%20Box-0D1117?style=for-the-badge&logo=virtualbox)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-0D1117?style=for-the-badge&logo=Obsidian&logoColor=purple)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vsc)](#)
+[![7ZIP](https://img.shields.io/badge/7ZIP-0D1117?style=for-the-badge&logo=7zip)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-0D1117?style=for-the-badge&logo=Obsidian&logoColor=552ea5)](#)
 [![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql)](#)
+[![Virtual Box](https://img.shields.io/badge/Virtual%20Box-0D1117?style=for-the-badge&logo=virtualbox&logoColor=0d7688)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=cyan)](#)
-[![Trello](https://img.shields.io/badge/Trello-0D1117?logo=trello&style=for-the-badge&logoColor=cyan)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=01c4eb)](#)
+[![Trello](https://img.shields.io/badge/Trello-0D1117?logo=trello&style=for-the-badge&logoColor=2c87ff)](#)
 [![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva)](#)
 [![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=orange)](#)
@@ -81,6 +84,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 ### Frameworks:
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Three.js](https://img.shields.io/badge/Three.js-3c4e63?logo=threedotjs&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
