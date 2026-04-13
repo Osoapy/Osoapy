@@ -25,7 +25,7 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 <img width=1000px height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=A80016&height=120&section=header"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=FF0034&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;An+AI+researcher+and+frontend+developer;I'm+20+years+old,+from+Cajazeiras,+PB,+Brazil;+Systems+Analysis+%26+Development+student;Have+traveled+a+lot+as+an+exchange+student;Make+yourself+at+home!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=FF0034&size=20&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+João+Gabriel...;An+AI+researcher+and+frontend+developer;I'm+20+years+old,+from+Cajazeiras,+PB,+Brazil;+Systems+Analysis+%26+Development+student;You+better+look+up+my+curriculum!;Make+yourself+at+home!+:%29)](https://git.io/typing-svg)
 
 <!-- GIF / TOP LANGS -->
 <div align="center" align-content="center" align-items="center">
