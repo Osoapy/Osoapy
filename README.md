@@ -38,9 +38,9 @@ Questionable Pikachu: https://64.media.tumblr.com/c1a83afbdba623347b7d85e2521c35
 <br>
 
 <!-- GITHUB STATS -->
-<div style="width: 1000px">
+<!--<div style="width: 1000px">
   <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=Osoapy&bg_color=000000&color=ffffff&line=FF0034&point=A80016&area=true&hide_border=true">
-</div>
+</div>-->
 
 <!--![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 ![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;-->
